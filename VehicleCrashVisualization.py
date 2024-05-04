@@ -118,7 +118,7 @@ st.title('Vehicle Crash Data in MA throughout 2017')
 dfCrashes = loading_data('2017_Crashes_10000_sample.csv')
 st.button('Press if you obtained any insight into vehicle crashes in MA during 2017!')
 
-st.image("C://Users//tavei//OneDrive - Bentley University//Spring 2024//CS 230//assets//FictionalCarCrash.webp")
+st.image("assets/FictionalCarCrash.webp")
 st.video('https://www.youtube.com/watch?v=2BS_pas7EwM')
 st.subheader('This serves as a reminder to be alert and drive carefully. '
              'These tests are not too convincing')
